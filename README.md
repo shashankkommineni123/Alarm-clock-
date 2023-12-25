@@ -1,1 +1,11 @@
-# Alarm-clock-
+# TECHNOLOGIES
+- Kotlin
+- MVVM architecture
+- Dependency injection
+- Room database
+- Alarm manager
+- Notification
+- Coroutines
+- Data binding
+- Navigation component
+- Lottie animations
